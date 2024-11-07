@@ -33,10 +33,10 @@ export async function execute(interaction: ChatInputCommandInteraction) {
         try {
             cosmetic = await asteria.getCosmetic("id", selectedSkinSplit[1], true);
         } catch (err) {
-            cosmetic = { images: { icon: "https://nexusassets.zetax.workers.dev/ceba508f24a70c50bd8782d08bd530b0d0df82e0baf7e357bcfd01ac81898297.gif" } }
+            cosmetic = { images: { icon: "" } }
         }
 
-        if (!cosmetic) cosmetic = { images: { icon: "https://nexusassets.zetax.workers.dev/ceba508f24a70c50bd8782d08bd530b0d0df82e0baf7e357bcfd01ac81898297.gif" } }
+        if (!cosmetic) cosmetic = { images: { icon: "" } }
 
         let icon = cosmetic.images.icon;
 
@@ -64,10 +64,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
                     value: user.mfa.toString(),
                 },
             ])
-            .setThumbnail(icon)
             .setFooter({
-                text: "Momentum",
-                iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
+                text: "Reborn",
             })
             .setTimestamp();
 

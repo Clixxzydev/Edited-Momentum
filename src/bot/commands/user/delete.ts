@@ -34,8 +34,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
         .setDescription("This action is irreversible, and will delete all your data.")
         .setColor("#2b2d31")
         .setFooter({
-            text: "Momentum",
-            iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
+            text: "Reborn",
+            iconURL: "https://media.discordapp.net/attachments/1244218942210179083/1298786508697895043/Chapter_2_Season_4_-_Key_Art_-_Fortnite.jpg?ex=671ad4b1&is=67198331&hm=7107d3a708fe663b5aa25d5dda745bb95e76554b7d7bf3e2c503612dee400e76&=&format=webp",
         })
         .setTimestamp();
 
@@ -61,8 +61,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
                     .setDescription("Your account has been deleted, we're sorry to see you go!")
                     .setColor("#2b2d31")
                     .setFooter({
-                        text: "Momentum",
-                        iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
+                        text: "Reborn",
+                        iconURL: "https://media.discordapp.net/attachments/1244218942210179083/1298786508697895043/Chapter_2_Season_4_-_Key_Art_-_Fortnite.jpg?ex=671ad4b1&is=67198331&hm=7107d3a708fe663b5aa25d5dda745bb95e76554b7d7bf3e2c503612dee400e76&=&format=webp",
                     })
                     .setTimestamp();
 
@@ -75,8 +75,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
                     .setDescription("Your account has not been deleted.")
                     .setColor("#2b2d31")
                     .setFooter({
-                        text: "Momentum",
-                        iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
+                        text: "Reborn",
+                        iconURL: "https://media.discordapp.net/attachments/1244218942210179083/1298786508697895043/Chapter_2_Season_4_-_Key_Art_-_Fortnite.jpg?ex=671ad4b1&is=67198331&hm=7107d3a708fe663b5aa25d5dda745bb95e76554b7d7bf3e2c503612dee400e76&=&format=webp",
                     })
                     .setTimestamp();
 

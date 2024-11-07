@@ -9,8 +9,8 @@
             "_type": "CommonUI Simple Message",
             "message": {
                 "_type": "CommonUI Simple Message Base",
-                "title": "Momentum",
-                "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                "title": "Reborn",
+                "body": "Fork of momentum, made by @clixxzy.dev"
             }
         },
         "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -209,21 +209,21 @@
             "_type": "Battle Royale News",
             "messages": [
                 {
-                    "image": "https://cdn.discordapp.com/attachments/927739901540188200/930882355818823720/1_of9OCSRWoAoS3_lNVKqM2g.png",
+                    "image": "",
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "DISCORD!",
-                    "title": "Join my discord server!",
-                    "body": "https://discord.gg/KJ8UaHZ",
+                    "title": "Join The Official Reborn Discord",
+                    "body": "https://discord.gg/2md9WrXUVw",
                     "spotlight": false
                 },
                 {
-                    "image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "image": "",
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momentum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Reborn",
+                    "body": "Fork of momentum, made by @clixxzy.dev",
                     "spotlight": false
                 }
             ]
@@ -1224,8 +1224,8 @@
                 {
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Reborn",
+                    "body": "",
                     "spotlight": true
                 }
             ]
@@ -1249,8 +1249,8 @@
                     "gamemodes": [],
                     "hidden": false,
                     "_type": "CommonUI Emergency Notice Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                    "title": "Reborn",
+                    "body": "Fork of momentum, made by @clixxzy.dev"
                 }
             ]
         },
@@ -5982,8 +5982,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Reborn",
+                    "body": "Fork of momentum, made by @clixxzy.dev",
                     "spotlight": false
                 }
             ]
@@ -6067,8 +6067,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Reborn",
+                    "body": "Fork of momentum, made by @clixxzy.dev",
                     "spotlight": false
                 }
             ]

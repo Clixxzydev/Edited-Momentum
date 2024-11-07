@@ -4,6 +4,7 @@ import log from "../utilities/structs/log.js";
 import logger from "../utilities/structs/log.js";
 import Safety from "../utilities/safety.js";
 import { dirname } from "dirname-filename-esm";
+import * as claimvbucks from "./commands/user/dailyvbucks.js";
 
 const __dirname = dirname(import.meta);
 
@@ -14,8 +15,10 @@ const token = Safety.env.BOT_TOKEN;
 import fs from 'node:fs';
 
 const commands: RESTPostAPIChatInputApplicationCommandsJSONBody[] = [];
+	claimvbucks
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
+
 
 for (const folder of commandFolders) {
 	const commandsPath = path.join(foldersPath, folder);

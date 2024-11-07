@@ -8,6 +8,7 @@ import Safety from '../utilities/safety.js';
 
 
 
+
 export const client: Client = new Client({
 	partials: [Partials.Channel, Partials.Message, Partials.Reaction],
 	intents: [
@@ -20,7 +21,7 @@ export const client: Client = new Client({
 	],
 	presence: {
 		activities: [{
-			name: 'Momentum',
+			name: 'Reborn',
 			type: ActivityType.Playing,
 		}],
 		status: 'online',

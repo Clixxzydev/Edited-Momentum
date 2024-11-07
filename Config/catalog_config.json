@@ -2,50 +2,99 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:BID_486_WinterHunterMale"
+            "AthenaCharacter:CID_839_Athena_Commando_F_HightowerSquash"
         ],
-        "price": 200
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaBackpack:BID_365_MascotMilitiaCuddle"
+            "AthenaDance:EID_TwistEternity"
         ],
-        "price": 1200
+        "price": 700
     },
     "daily3": {
         "itemGrants": [
-            "AthenaLoadingScreen:LSID_099_PirateTheme"
+            "AthenaDance:EID_TwistDaytona"
         ],
-        "price": 500
+        "price": 700
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Snap"
+            "AthenaCharacter:CID_349_Athena_Commando_M_Banana"
         ],
-        "price": 500
+        "price": 2500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_196_TigerJaw"
+            "AthenaCharacter:CID_313_Athena_Commando_M_KpopFashion"
         ],
-        "price": 200
+        "price": 2500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_092_Sarong"
+            "AthenaPickaxe:Pickaxe_ID_191_Banana"
         ],
-        "price": 200
+        "price": 500
+    },
+    "daily7": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
+        ],
+        "price": 2500
+    },
+    "daily8": {
+        "itemGrants": [
+            "AthenaBackpack:BID_447_ToyMonkey"
+        ],
+        "price": 500
+    },
+    "daily9": {
+        "itemGrants": [
+            "AthenaBackpack:BID_303_BananaSmoothie"
+        ],
+        "price": 700
+    },
+    "daily10": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_206_Donut"
+        ],
+        "price": 2000
+    },
+    "daily11": {
+        "itemGrants": [
+            "AthenaMusicPack:MusicPack_031_ChipTune"
+        ],
+        "price": 550
+    },
+    "daily12": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_130_LemonLime"
+        ],
+        "price": 550
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_759_Athena_Commando_F_RapVillainess"
+            "AthenaCharacter:CID_A_024_Athena_Commando_F_Skirmish_QW2BQ"
         ],
-        "price": 1200
-    },
+        "price": 8500
+    
+        },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_494_Athena_Commando_M_MechPilotShark"
+            "AthenaDance:EID_Bewilder"
         ],
-        "price": 800
+        "price": 3500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaCharacter:Character_VitalPsych"
+        ],
+        "price": 8500
+    },
+    "featured4": {
+        "itemGrants": [
+            "AthenaDance:EID_Farewell"
+        ],
+        "price": 3500
     }
 }
